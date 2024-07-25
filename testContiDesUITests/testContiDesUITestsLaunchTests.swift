@@ -1,13 +1,13 @@
 //
-//  CICDTestUITestsLaunchTests.swift
-//  CICDTestUITests
+//  testContiDesUITestsLaunchTests.swift
+//  testContiDesUITests
 //
 //  Created by Neeraj soni on 25/07/24.
 //
 
 import XCTest
 
-final class CICDTestUITestsLaunchTests: XCTestCase {
+final class testContiDesUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

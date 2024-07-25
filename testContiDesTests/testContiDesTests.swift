@@ -1,14 +1,14 @@
 //
-//  CICDTestTests.swift
-//  CICDTestTests
+//  testContiDesTests.swift
+//  testContiDesTests
 //
 //  Created by Neeraj soni on 25/07/24.
 //
 
 import XCTest
-@testable import CICDTest
+@testable import testContiDes
 
-final class CICDTestTests: XCTestCase {
+final class testContiDesTests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
