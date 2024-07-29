@@ -17,6 +17,7 @@ struct testContiDesApp: App {
                    Analytics.self,
                    Crashes.self
                ])
+        
            }
     var body: some Scene {
         WindowGroup {
